@@ -1,0 +1,90 @@
+
+
+功能一：
+    针对json数据做一个ETL操作 ==> ODS
+        原始数据 json，里面包含很多字段，但是还是需要做一些处理的，比如说我们需要根据IP解析出来省份、城市、运营商信息
+        针对你们的业务逻辑进行字段的拆分或者是补充
+        ETL后的数据是规整的了（规整后的数据一般都是列式），后续其他的操作就是基于这个ETL后的数据进行处理
+
+    1）IP的字段解析
+        a) 提供了ip规则库，然后自己解析出来  *****
+            日志文件 join  ipRule
+        b）纯真
+        c）需要专门的公司提供的ip服务
+    2）解析完的数据落地到Kudu的ods表，供后续的统计分析作业使用
+
+
+
+功能二：统计省份、城市数量分布情况
+    input： kudu ods
+    统计：按照provincename，cityname的分组统计
+
+    扩展：求每个省份下每个城市数量最多的TopN   这是一个典型的TopN
+
+
+
+两个需求我们是通过两个单独的类来实现，这种方式不友好，不符合生产上的要求，所以我们需要进行重构
+
+
+
+
+
+
+
+
+需求三：统计地域分布情况
+
+
+
+
+需求四：统计APP分布情况
+
+
+
+
+
+
+
+将我们开发的代码不在本地运行了，因为本地开发测试已经完成
+==> 代码调整、打包、运行在服务器上
+
+
+数据在HDFS上的规划，每天一个目录，YYYYMMDD
+
+我们离线处理的粒度：每天跑一次，每天凌晨3点跑一次
+==> 需要传递一个要处理的时间进去
+
+我们的要求：打瘦包，不要胖包（插件，把pom中依赖的所有jar打进去）
+
+time=20181007
+${SPARK_HOME}/bin/spark-submit \
+--class com.imooc.bigdata.chapter08.SparkApp \
+--master local \
+--jars /home/hadoop/lib/kudu-client-1.7.0.jar,/home/hadoop/lib/kudu-spark2_2.11-1.7.0.jar \
+--conf spark.time=$time \
+--conf spark.raw.path="hdfs://hadoop000:8020/pk/access/$time" \
+--conf spark.ip.path="hdfs://hadoop000:8020/pk/access/ip.txt" \
+/home/hadoop/lib/sparksql-train-1.0.jar
+
+
+time是写死的，这肯定不行，如何 死去活来呢？
+
+此时：就需要借助于调度
+
+调度：crontab  Azkaban  Ooize ....
+
+
+crontab -e 编辑
+    需求：每一分钟输出date 到 一个文件里面
+    凌晨3点开始执行我们的作业，注意：此时执行的应该是当前天-1
+crontab -l 查看
+crontab -r 删除
+
+作业：使用crontab定时调度，每天凌晨三点运行前一天的数据
+
+
+
+
+
+
+
