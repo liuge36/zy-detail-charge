@@ -20,7 +20,7 @@ object SparkApp {
       .getOrCreate()
 
     // STEP1: ETL
-//    LogETLProcessor.process(spark, masterAddresses)
+    LogETLProcessor.process(spark, masterAddresses)
 
     // STEP2：省份地市统计
 //    ProvinceCityProcessor.process(spark, masterAddresses)
@@ -29,7 +29,7 @@ object SparkApp {
 //    AreaProcessor.process(spark, masterAddresses)
 
     // STEP4: APP分布情况统计
-    AppProcessor.process(spark, masterAddresses)
+//    AppProcessor.process(spark, masterAddresses)
 
 
 

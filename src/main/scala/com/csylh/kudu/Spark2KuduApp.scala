@@ -46,7 +46,7 @@ object Spark2KuduApp {
 
     spark.read.format("org.apache.kudu.spark.kudu")
       .option("kudu.master",kuduMasters)
-      .option("kudu.table", "app_stat")
+      .option("kudu.table", "ods")
       .load()
       .show()
 

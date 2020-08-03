@@ -14,6 +14,7 @@ import org.apache.kudu.client._
 object KuduAPIApp{
 
 
+
   def main(args:Array[String]): Unit ={
 
     val KUDU_MASTERS = "spark001"
@@ -24,11 +25,14 @@ object KuduAPIApp{
       .defaultSocketReadTimeoutMs(10000 *2)
       .build()
 
-    val tableName = "lh6"
+    val tableName = "lh"
+    val tableNames = "ff"
 
-    createTable(client,tableName)
+//    createTable(client,tableName)
 
 //    deleteTable(client,tableName)
+
+    deleteTableAll(client,tableNames)
 
 //    insertRows(client,tableName)
 //
@@ -106,6 +110,20 @@ object KuduAPIApp{
   def deleteTable(client: KuduClient, tableName: String) = {
       client.deleteTable(tableName)
   }
+
+  /**
+    * 删除多张表
+    * @param client
+    * @param tableNames
+    */
+  def deleteTableAll(client: KuduClient, tableNames: String) = {
+    val splits = tableNames.split(",")
+    splits.map(x=>{
+      deleteTable(client,x)
+    })
+
+  }
+
 
   /**
     * 数据查询

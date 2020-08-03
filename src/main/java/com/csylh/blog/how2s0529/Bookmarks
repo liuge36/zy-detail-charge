@@ -1,0 +1,837 @@
+{
+   "checksum": "64c0424c2de4962b25a0d8b232e8bad1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13215445770623744",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13215445807769581",
+            "id": "8",
+            "name": "百度一下，你就知道",
+            "type": "url",
+            "url": "https://www.baidu.com/"
+         }, {
+            "date_added": "13234498090039337",
+            "id": "202",
+            "name": "知识星球 | 深度连接铁杆粉丝，运营高品质社群，知识变现的工具",
+            "type": "url",
+            "url": "https://wx.zsxq.com/dweb2/index/group/init"
+         }, {
+            "children": [ {
+               "date_added": "13235183527162084",
+               "id": "210",
+               "name": "细说Java 泛型 - 掘金",
+               "type": "url",
+               "url": "https://juejin.im/post/5d76296e6fb9a06b1b19e818"
+            }, {
+               "date_added": "13235183531167918",
+               "id": "211",
+               "name": "Java“禁止”泛型数组 - lsgxeva - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/lsgxeva/p/10231538.html"
+            }, {
+               "date_added": "13235183534798028",
+               "id": "212",
+               "name": "I/O系列教材 （一）- Java 的File类，以及常用方法",
+               "type": "url",
+               "url": "https://how2j.cn/k/io/io-file/345.html#nowhere"
+            }, {
+               "date_added": "13235183537134857",
+               "id": "213",
+               "name": "Java IO : 流，以及装饰器模式在其上的运用 - beanlam - SegmentFault 思否",
+               "type": "url",
+               "url": "https://segmentfault.com/a/1190000004255439"
+            }, {
+               "date_added": "13235183541745735",
+               "id": "214",
+               "name": "Java的语法糖_java_孙平平的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/sun_shaoping/article/details/82260838"
+            }, {
+               "date_added": "13235219828176383",
+               "id": "215",
+               "name": "【干货】Chrome插件(扩展)开发全攻略 - 我是小茗同学 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html"
+            } ],
+            "date_added": "13235183521442988",
+            "date_modified": "13235219828176383",
+            "id": "209",
+            "name": "0529",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13220416821684122",
+               "id": "52",
+               "name": "深入理解 Java 枚举 - 掘金",
+               "type": "url",
+               "url": "https://juejin.im/post/5c90efacf265da60ce379e17"
+            }, {
+               "date_added": "13220417305883469",
+               "id": "53",
+               "name": "项目中的if else太多了，该怎么重构？ - Java识堂",
+               "type": "url",
+               "url": "https://blog.csdn.net/zzti_erlie/article/details/102988486"
+            }, {
+               "date_added": "13220417314939983",
+               "id": "54",
+               "name": "答应我，别再if/else走天下了可以吗",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/s/ufRf8DQQRYQI0q2VxG3hQg"
+            }, {
+               "date_added": "13221546182217301",
+               "id": "58",
+               "name": "Python调用Azkaban API接口 - 浩兄的博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/zhouhao118118/article/details/87936606"
+            }, {
+               "date_added": "13221647790545681",
+               "id": "60",
+               "name": "spark中job stage task关系 - daniel456 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/wzj4858/p/8204411.html"
+            }, {
+               "date_added": "13221896754736393",
+               "id": "62",
+               "name": "IT大咖说-大咖干货，不再错过",
+               "type": "url",
+               "url": "https://www.itdks.com/Course/detail?id=16111"
+            }, {
+               "date_added": "13221902374940894",
+               "id": "63",
+               "name": "上海久耶基于HBase实时数仓探索实践-InfoQ",
+               "type": "url",
+               "url": "https://www.infoq.cn/article/L6yfEtYlMNAl5p_DmDgL"
+            }, {
+               "date_added": "13222400257426736",
+               "id": "65",
+               "name": "oeljeklaus-you/JavaOrBigData-Interview: Java开发者或者大数据开发者面试知识点整理",
+               "type": "url",
+               "url": "https://github.com/oeljeklaus-you/JavaOrBigData-Interview"
+            }, {
+               "date_added": "13222413775028066",
+               "id": "66",
+               "name": "Windows下完全卸载node.js并安装node.js的多版本管理工具nvm-windows_不积跬步，无以至千里-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/lewky_liu/article/details/87959839"
+            }, {
+               "date_added": "13222416972008998",
+               "id": "67",
+               "name": "Word页码从任意页开始及插入、修改、删除与设置页码格式方法",
+               "type": "url",
+               "url": "https://baijiahao.baidu.com/s?id=1599911792668769242&wfr=spider&for=pc"
+            }, {
+               "date_added": "13222422010335467",
+               "id": "68",
+               "name": "【Final Cut Pro 教程】全系列视频拍摄、剪辑与后期制作教程丨放牛班乌托邦 出品_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+               "type": "url",
+               "url": "https://www.bilibili.com/video/av10028738?p=4"
+            }, {
+               "date_added": "13222749223825373",
+               "id": "70",
+               "name": "shiro权限认证及授权的执行流程分析及图解（一）_Qying-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/weixin_41716049/article/details/84336669"
+            }, {
+               "date_added": "13222941324812514",
+               "id": "72",
+               "name": "租房要仔细看租赁合同 要求本帖置顶",
+               "type": "url",
+               "url": "https://www.douban.com/group/topic/13511781/"
+            }, {
+               "date_added": "13223630274383003",
+               "id": "74",
+               "name": "不良 : 该主机已与 Cloudera Manager Server 建立联系。 该主机未与 Host Monitor 建立联系。_激进的蜗牛-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/weixin_39445556/article/details/80628141"
+            }, {
+               "date_added": "13223641810091600",
+               "id": "75",
+               "name": "【原创】大叔经验分享（53）kudu报错unable to find SASL plugin: PLAIN-码迷移动版-m.mamicode.com",
+               "type": "url",
+               "url": "http://m.mamicode.com/info-detail-2669480.html"
+            }, {
+               "date_added": "13223697743169466",
+               "id": "77",
+               "name": "台灣啟示錄 全集20171001 你所不知道的館長！ - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=CEU7JB_pkvE"
+            }, {
+               "date_added": "13224155010004136",
+               "id": "79",
+               "name": "个人转租 急急急，固戌地铁站1000米，深圳最低价 9...",
+               "type": "url",
+               "url": "https://www.douban.com/group/topic/163538450/"
+            }, {
+               "date_added": "13225357397404856",
+               "id": "81",
+               "name": "sqoop常用命令整理_leehbing的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/leehbing/article/details/65631314"
+            }, {
+               "date_added": "13225466000743270",
+               "id": "83",
+               "name": "生产Spark开发读取云主机HDFS异常剖析流程 | 若泽大数据 www.ruozedata.com",
+               "type": "url",
+               "url": "https://ruozedata.github.io/2019/02/26/%E7%94%9F%E4%BA%A7Spark%E5%BC%80%E5%8F%91%E8%AF%BB%E5%8F%96%E4%BA%91%E4%B8%BB%E6%9C%BAHDFS%E5%BC%82%E5%B8%B8%E5%89%96%E6%9E%90%E6%B5%81%E7%A8%8B/"
+            }, {
+               "date_added": "13225646465796463",
+               "id": "85",
+               "name": "解决windows上The root scratch dir: /tmp/hive on HDFS should be writable.Current permissions are: ------_hgg的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/Nonoroya_Zoro/article/details/102874529"
+            }, {
+               "date_added": "13225784095525678",
+               "id": "87",
+               "name": "如何修改wordpress docker 容器的文件上传尺寸限制？_Mark的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/sitebus/article/details/97648177"
+            }, {
+               "date_added": "13225881185250734",
+               "id": "89",
+               "name": "义教教科书语文五年级下册",
+               "type": "url",
+               "url": "http://bp.pep.com.cn/ebooks/ywwunjxc/mobile/index.html"
+            }, {
+               "date_added": "13225912041207568",
+               "id": "90",
+               "name": "Docker容器数据持久化 | Arking",
+               "type": "url",
+               "url": "https://arkingc.github.io/2018/12/11/2018-12-11-docker-storage-persist/"
+            }, {
+               "date_added": "13226079120478039",
+               "id": "94",
+               "name": "Kubernetes 1.17.2快速升级 - 柚子社区",
+               "type": "url",
+               "url": "https://uzshare.com/view/814383"
+            }, {
+               "date_added": "13226081623406935",
+               "id": "96",
+               "name": "Kubernetes安装_lxf20054658的专栏-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/lxf20054658/article/details/92397522"
+            }, {
+               "date_added": "13226131592626707",
+               "id": "98",
+               "name": "free-coder的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili",
+               "type": "url",
+               "url": "https://space.bilibili.com/31273057/video"
+            }, {
+               "date_added": "13226213840497091",
+               "id": "100",
+               "name": "Vagrant 扩大磁盘容量（图文详解） - 程序员大本营",
+               "type": "url",
+               "url": "http://www.pianshen.com/article/2274405329/"
+            }, {
+               "date_added": "13226224704432588",
+               "id": "102",
+               "name": "Kettle — 安装和部署_运维_永远不会懂-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/u013468915/article/details/82628024"
+            }, {
+               "date_added": "13226246089118757",
+               "id": "103",
+               "name": "yanxiaofei2018/kettle Tags - Docker Hub",
+               "type": "url",
+               "url": "https://hub.docker.com/r/yanxiaofei2018/kettle/tags"
+            }, {
+               "date_added": "13226248823715914",
+               "id": "104",
+               "name": "不要担心没数据！史上最全数据集网站汇总 - 大数据分析_大数据处理_大数据技术_云计算 -",
+               "type": "url",
+               "url": "http://www.raincent.com/content-10-11262-1.html"
+            }, {
+               "date_added": "13226554323864794",
+               "id": "106",
+               "name": "义教教科书语文五年级下册",
+               "type": "url",
+               "url": "https://bp.pep.com.cn/ebook/ywwunjxc/mobile/index.html"
+            }, {
+               "date_added": "13226735289388775",
+               "id": "108",
+               "name": "介绍 | 是你啊小米-陆英杰专注后端Java技术-Java博客",
+               "type": "url",
+               "url": "http://luyingjie.cn/blog?id=1"
+            }, {
+               "date_added": "13226735464683975",
+               "id": "109",
+               "name": "生产企业大数据平台建设项目建议书v - 百度文库",
+               "type": "url",
+               "url": "https://wenku.baidu.com/view/0f49598b11a6f524ccbff121dd36a32d7275c767.html"
+            }, {
+               "date_added": "13226762671772050",
+               "id": "110",
+               "name": "人教版五年级下册数学第一单元测试题 - 百度文库",
+               "type": "url",
+               "url": "https://wenku.baidu.com/view/d8ac9ffdb80d4a7302768e9951e79b896802681c.html"
+            }, {
+               "date_added": "13226852584059322",
+               "id": "112",
+               "name": "最新人教版五年级数学下册第二单元测试题及答案 - 百度文库",
+               "type": "url",
+               "url": "https://wenku.baidu.com/view/4f1f9843393567ec102de2bd960590c69ec3d824.html"
+            }, {
+               "date_added": "13227252642303555",
+               "id": "114",
+               "name": "国内哪个精确到城市的 IP 地址库最精确完善？ - 知乎",
+               "type": "url",
+               "url": "https://www.zhihu.com/question/19584593"
+            }, {
+               "date_added": "13227252644949532",
+               "id": "115",
+               "name": "爬ip库_数据库_sinat_24820331的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/sinat_24820331/article/details/68969558"
+            }, {
+               "date_added": "13227252647158659",
+               "id": "116",
+               "name": "lionsoul2014/ip2region: Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm",
+               "type": "url",
+               "url": "https://github.com/lionsoul2014/ip2region"
+            }, {
+               "date_added": "13227339888384470",
+               "id": "118",
+               "name": "SparkSQL极速入门_整合Kudu实现广告业务数据分析-慕课网",
+               "type": "url",
+               "url": "https://coding.imooc.com/class/385.html"
+            }, {
+               "date_added": "13227339891152872",
+               "id": "119",
+               "name": "Spark SQL慕课网日志分析_大数据实战-慕课网",
+               "type": "url",
+               "url": "https://coding.imooc.com/class/112.html#Anchor"
+            }, {
+               "date_added": "13227354400914012",
+               "id": "120",
+               "name": "修改Kafka的启动内存 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/944d7f129abb"
+            }, {
+               "date_added": "13227354893218182",
+               "id": "121",
+               "name": "kafka listeners和advertised配置 - 时光依然轻擦 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/xuliang666/p/11871389.html"
+            }, {
+               "date_added": "13227374292566135",
+               "id": "122",
+               "name": "[Echarts可视化] 一.入门篇之简单绘制中国地图和贵州地区 - 曹明 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/think90/articles/11888665.html"
+            }, {
+               "date_added": "13227758544719545",
+               "id": "124",
+               "name": "FineBI商业智能软件 - 新一代自助大数据分析的BI工具",
+               "type": "url",
+               "url": "https://www.finebi.com/"
+            } ],
+            "date_added": "13220414910097057",
+            "date_modified": "13229522343860372",
+            "id": "50",
+            "name": "好文章",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13215498343513509",
+               "id": "15",
+               "name": "大家帮我看下简历吧--大数据开发岗 - V2EX",
+               "type": "url",
+               "url": "https://www.v2ex.com/amp/t/574094"
+            }, {
+               "date_added": "13215499908382447",
+               "id": "16",
+               "name": "超级简历 WonderCV",
+               "type": "url",
+               "url": "https://www.wondercv.com/cvs"
+            }, {
+               "date_added": "13216360617040063",
+               "id": "44",
+               "name": "米哈游大数据视频一面面经_笔经面经_牛客网",
+               "type": "url",
+               "url": "https://www.nowcoder.com/discuss/285388?type=all&order=time&pos=&page=1"
+            }, {
+               "date_added": "13219987148360716",
+               "id": "46",
+               "name": "有道云笔记",
+               "type": "url",
+               "url": "https://note.youdao.com/web/#/file/recent/note/WEB2e8af2ec2ae376d81cfa0d4dddd799b1/"
+            }, {
+               "date_added": "13220354761056955",
+               "id": "48",
+               "name": "#2019流行歌曲【無廣告】#2019新歌排行榜 ~ 2019最新歌曲2019好听的流行歌曲 %華語流行串燒精選抒情歌曲 ! 2019年 最hits & 2019最新歌曲2019好听的流行歌 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=MUMd4gUYsp8"
+            }, {
+               "date_added": "13221197024083654",
+               "id": "56",
+               "name": "有道云笔记",
+               "type": "url",
+               "url": "https://note.youdao.com/web/#/file/recent/note/WEB7ed2892de916875ee8ff06abaea6cbe0/"
+            } ],
+            "date_added": "13215498340217458",
+            "date_modified": "13221546182217301",
+            "id": "14",
+            "name": "我的求职",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13216114511796543",
+               "id": "36",
+               "name": "[Filerun] 轻松搭建私有网盘以及WebDAV - 神代綺凜の萌化小基地",
+               "type": "url",
+               "url": "https://moe.best/yoimono/filerun.html"
+            }, {
+               "date_added": "13216114519060523",
+               "id": "37",
+               "name": "[NetData] 一个超酷炫的Linux性能实时监控探针 - 神代綺凜の萌化小基地",
+               "type": "url",
+               "url": "https://moe.best/yoimono/netdata.html"
+            }, {
+               "date_added": "13216117551093331",
+               "id": "38",
+               "name": "小-游的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili",
+               "type": "url",
+               "url": "https://space.bilibili.com/343147393/video"
+            }, {
+               "date_added": "13216130494872312",
+               "id": "40",
+               "name": "自己拥有一台服务器可以做哪些很酷的事情？ - 知乎",
+               "type": "url",
+               "url": "https://www.zhihu.com/question/40854395"
+            } ],
+            "date_added": "13216114504700569",
+            "date_modified": "13216134882737516",
+            "id": "35",
+            "name": "好工具",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13231498696237803",
+               "id": "180",
+               "name": "A8-V5",
+               "type": "url",
+               "url": "http://119.254.226.19/seeyon/main.do?method=main"
+            }, {
+               "date_added": "13231498725087607",
+               "id": "181",
+               "name": "263邮箱",
+               "type": "url",
+               "url": "https://mail.263.net/wm2e/mail/login/show/loginShowAction_loginShow.do?usr=chensy@trustfar.cn&sid=M2M4aDhlN24xczF5NUAydDBy&isp_domain=&useCDN=0&ssl=true"
+            }, {
+               "date_added": "13231561936915192",
+               "id": "182",
+               "name": "lambda箭头函数 线程创建 - 「dt猫」",
+               "type": "url",
+               "url": "http://www.luyixian.cn/news_show_315206.aspx"
+            }, {
+               "date_added": "13231561939756206",
+               "id": "183",
+               "name": "Java 8 新特性 | 菜鸟教程",
+               "type": "url",
+               "url": "https://www.runoob.com/java/java8-new-features.html"
+            }, {
+               "date_added": "13231561942805161",
+               "id": "184",
+               "name": "JAVA 8 新特性 - 知乎",
+               "type": "url",
+               "url": "https://zhuanlan.zhihu.com/p/60796123"
+            }, {
+               "date_added": "13231561945075016",
+               "id": "185",
+               "name": "Java8新特性 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/28c7ed10c4a4"
+            }, {
+               "date_added": "13231561948120174",
+               "id": "186",
+               "name": "java8有哪些新特性-百度经验",
+               "type": "url",
+               "url": "https://jingyan.baidu.com/article/046a7b3e87d401f9c37fa953.html"
+            }, {
+               "date_added": "13231561953259182",
+               "id": "187",
+               "name": "给女朋友讲解什么是Optional【JDK 8特性】",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484410&idx=1&sn=ce6d4cf18846cc7b9e6e92427c9bba26&chksm=ebd742fbdca0cbedac796e06ebea4bad92ff7d707a5457c5ce521aa25b522dce96a23c4dcfbc&token=620000779&lang=zh_CN&scene=21###wechat_redirect"
+            }, {
+               "date_added": "13231561958477177",
+               "id": "188",
+               "name": "手把手带你体验Stream流",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485861&idx=3&sn=9f4a83c8c75b43ead7b4ec187fe031ca&chksm=ebd748a4dca0c1b2d8a1b16656ada30c92bcb6e099c54e6b5b6eebbb29dc8914e1244e77c1e4&token=2052427710&lang=zh_CN#rd"
+            }, {
+               "date_added": "13231561979550975",
+               "id": "189",
+               "name": "https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485692&idx=1&sn=a6b3f040b13fa2324992b11a927e34dc&chksm=ebd749fddca0c0eb1b05c08ede7ee4a44699584fbc0c3449ec2cac7642fd13819470ec7f44d8&token=1948873548&lang=zh_CN&scene=21#wechat_redirect",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485692&idx=1&sn=a6b3f040b13fa2324992b11a927e34dc&chksm=ebd749fddca0c0eb1b05c08ede7ee4a44699584fbc0c3449ec2cac7642fd13819470ec7f44d8&token=1948873548&lang=zh_CN&scene=21#wechat_redirect"
+            }, {
+               "date_added": "13234520397017573",
+               "id": "203",
+               "name": "GaussDB 200单机实例安装使用教程 - 个人学习记录",
+               "type": "url",
+               "url": "http://www.shidunkai.cn/articles/2020/05/03/1588481450482.html"
+            }, {
+               "date_added": "13234522777205344",
+               "id": "204",
+               "name": "liuge - 黑客派",
+               "type": "url",
+               "url": "https://hacpai.com/member/liuge"
+            } ],
+            "date_added": "13231498664342130",
+            "date_modified": "13234600916626393",
+            "id": "178",
+            "name": "我的公司",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13216134882737516",
+               "id": "41",
+               "name": "悦耳音乐酱 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCqWNOHjgfL8ADEdXGznzwUw/videos"
+            }, {
+               "date_added": "13216136627430988",
+               "id": "42",
+               "name": "香港电影里最经典的五首歌曲，每一首都是回忆，你肯定都听过! - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=zKxH1XKcOko"
+            } ],
+            "date_added": "13216111286678749",
+            "date_modified": "13216360617040063",
+            "id": "33",
+            "name": "歌曲&电影",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13216111008713763",
+               "id": "30",
+               "name": "留歌_36 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/u/0b8d97aea028"
+            }, {
+               "date_added": "13216111053377426",
+               "id": "31",
+               "name": "liuge36 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/liuge36/"
+            }, {
+               "date_added": "13216111090073407",
+               "id": "32",
+               "name": "【留歌__36的博客】技术改变生活 - CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/liuge36"
+            }, {
+               "date_added": "13229958066248372",
+               "id": "146",
+               "name": "创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~",
+               "type": "url",
+               "url": "https://member.bilibili.com/v2#/upload-manager/article?group=is_pubing&page=1"
+            }, {
+               "date_added": "13229960899406534",
+               "id": "147",
+               "name": "西瓜视频 - 头条号",
+               "type": "url",
+               "url": "https://mp.toutiao.com/profile_v3/xigua/content-manage"
+            }, {
+               "date_added": "13230177057399846",
+               "id": "149",
+               "name": "Pong",
+               "type": "url",
+               "url": "http://how2s.cn/"
+            }, {
+               "date_added": "13230467593452346",
+               "id": "161",
+               "name": "LinkedIn",
+               "type": "url",
+               "url": "https://www.linkedin.com/feed/"
+            }, {
+               "date_added": "13230467611665191",
+               "id": "162",
+               "name": "liuge36",
+               "type": "url",
+               "url": "https://github.com/liuge36"
+            } ],
+            "date_added": "13216110981276172",
+            "date_modified": "13231144165077955",
+            "id": "29",
+            "name": "我的博客1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13229522360600453",
+               "id": "128",
+               "name": "hiveserver2连接报错： User: root is not allowed to impersonate anonymous (state=08S01,code=0) - 予你心安 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/lijinze-tsinghua/p/8563054.html"
+            }, {
+               "date_added": "13229525878233623",
+               "id": "129",
+               "name": "Hive配置_RANGER_组件授权_开源组件介绍_E-MapReduce-阿里云",
+               "type": "url",
+               "url": "https://help.aliyun.com/document_detail/66420.html"
+            }, {
+               "date_added": "13229576625845611",
+               "id": "131",
+               "name": "linux 同步北京时间_运维_冰恋云的专栏-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/z13615480737/article/details/82776167"
+            }, {
+               "date_added": "13229613615167255",
+               "id": "132",
+               "name": "GitHub - d2-projects/d2-admin: An elegant dashboard",
+               "type": "url",
+               "url": "https://github.com/d2-projects/d2-admin"
+            }, {
+               "date_added": "13229875343331261",
+               "id": "135",
+               "name": "樱桃说电影的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili",
+               "type": "url",
+               "url": "https://space.bilibili.com/365974070?from=search&seid=11009207102286145017"
+            }, {
+               "date_added": "13230282474179165",
+               "id": "152",
+               "name": "Presto 在有赞的实践之路",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NjIyNjQwMg==&mid=2247485458&idx=1&sn=a416f3b55963adda769c0f81ad8b5d76&chksm=cf343a1ff843b309992557cb264f09460df9d4d0afba629bb8a1e9b1628c96c9355188996705&mpshare=1&scene=23&srcid=&sharer_sharetime=1585790620573&sharer_shareid=6dc79c60ac1e4a7cf5eeff5e8c0aac25#rd"
+            }, {
+               "date_added": "13230351406545008",
+               "id": "154",
+               "name": "百度脑图－便捷的思维工具",
+               "type": "url",
+               "url": "https://naotu.baidu.com/file/34b774320e1292d97f22d5ba71c5c250?token=439710f65d16870e"
+            }, {
+               "date_added": "13230351431845798",
+               "id": "155",
+               "name": "百度脑图－便捷的思维工具",
+               "type": "url",
+               "url": "https://naotu.baidu.com/file/92badfabec2ec8f50fe66b5d609b0388?token=681915926456e4b3"
+            }, {
+               "date_added": "13230351446788123",
+               "id": "156",
+               "name": "百度脑图－便捷的思维工具",
+               "type": "url",
+               "url": "https://naotu.baidu.com/file/528673eb53030c2c0469e9dfe2529bd3?token=d22a90ee8547699b"
+            }, {
+               "date_added": "13230383340212479",
+               "id": "157",
+               "name": "如果你觉得你的文章没人看，请先看看这篇文章_Java_CSDN 官方博客-CSDN博客",
+               "type": "url",
+               "url": "https://blogdev.blog.csdn.net/article/details/104634758"
+            }, {
+               "date_added": "13230463791886034",
+               "id": "159",
+               "name": "开发工具IDEA从入门到爱不释手-慕课网",
+               "type": "url",
+               "url": "https://www.imooc.com/learn/1160"
+            }, {
+               "date_added": "13230475508850545",
+               "id": "163",
+               "name": "如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？_网络_A Short Life-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/dataiyangu/article/details/97544551"
+            }, {
+               "date_added": "13230475584507707",
+               "id": "164",
+               "name": "写给程序员的n+1条建议_Java_A Short Life-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/dataiyangu/article/details/99192618"
+            }, {
+               "date_added": "13230476431787705",
+               "id": "165",
+               "name": "一文带你入门Java Stream流，太强了_Java_沉默王二-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/qing_gee/article/details/105238960"
+            }, {
+               "date_added": "13230531709554750",
+               "id": "167",
+               "name": "ZhongFuCheng3y/3y: 从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点",
+               "type": "url",
+               "url": "https://github.com/ZhongFuCheng3y/3y"
+            }, {
+               "date_added": "13230812802176216",
+               "id": "174",
+               "name": "【揭秘】中国四大银行的大数据应用已到了哪个阶段？_大数据_大数据-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/zw0pi8g5c1x/article/details/79350750"
+            }, {
+               "date_added": "13230812806778531",
+               "id": "175",
+               "name": "大数据技术在金融领域的应用与实战-CSDN讲师的在线视频教程-CSDN学院",
+               "type": "url",
+               "url": "https://edu.csdn.net/course/detail/8756"
+            }, {
+               "date_added": "13232446041149266",
+               "id": "191",
+               "name": "自学技术_星月情缘的博客_星月情缘02-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/xingyue0422/category_6362013.html"
+            }, {
+               "date_added": "13232615926216234",
+               "id": "193",
+               "name": "GaussDB分布式数据库 - 华为企业业务",
+               "type": "url",
+               "url": "https://e.huawei.com/cn/products/cloud-computing-dc/gaussdb"
+            }, {
+               "date_added": "13233368710643885",
+               "id": "195",
+               "name": "新一代大数据计算引擎 Flink从入门到实战_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+               "type": "url",
+               "url": "https://www.bilibili.com/video/BV1BK411L7Pc?from=search&seid=8496464277091188522"
+            }, {
+               "date_added": "13233369509145532",
+               "id": "196",
+               "name": "The Java® Virtual Machine Specification",
+               "type": "url",
+               "url": "https://docs.oracle.com/javase/specs/jvms/se8/html/index.html"
+            }, {
+               "date_added": "13234327269694679",
+               "id": "198",
+               "name": "面试真经 | 大数据/数仓面试灵魂30问（附答案 | 已斩offer）_职能岗位,技术研发,大数据_飞总聊IT-新知号",
+               "type": "url",
+               "url": "https://www.shangyexinzhi.com/article/424627.html"
+            }, {
+               "date_added": "13234493811924121",
+               "id": "199",
+               "name": "https://mp.weixin.qq.com/s/Q0KHuUOt5tXyTyPiNLyPIw",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/s/Q0KHuUOt5tXyTyPiNLyPIw"
+            }, {
+               "date_added": "13234493856928445",
+               "id": "200",
+               "name": "https://mp.weixin.qq.com/s/VWhawsdoIFD0ZUFr84pYlQ",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/s/VWhawsdoIFD0ZUFr84pYlQ"
+            }, {
+               "date_added": "13234600916626393",
+               "id": "206",
+               "name": "怎么查看自己的centos版本",
+               "type": "url",
+               "url": "http://www.360doc.com/content/19/0615/08/54508727_842545097.shtml"
+            }, {
+               "date_added": "13234871191283434",
+               "id": "208",
+               "name": "反认他乡是故乡 的个人主页 - 专栏 - 掘金",
+               "type": "url",
+               "url": "https://juejin.im/user/5d6a16976fb9a06acc009c52/posts"
+            } ],
+            "date_added": "13229522352547810",
+            "date_modified": "13234871191283434",
+            "id": "127",
+            "name": "新的起点",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13229924856907451",
+               "id": "138",
+               "name": "GitHub - Jannchie/Historical-ranking-data-visualization-based-on-d3.js: 这是一个数据可视化项目，能够将历史数据排名转化为动态柱状图图表",
+               "type": "url",
+               "url": "https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js"
+            }, {
+               "date_added": "13229938778892709",
+               "id": "139",
+               "name": "Creations - Panzoid",
+               "type": "url",
+               "url": "https://panzoid.com/creations"
+            }, {
+               "date_added": "13229940487817064",
+               "id": "140",
+               "name": "【fcpx萌新教程】如何使用fcpx制作片头 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=kCKMygOz9II"
+            }, {
+               "date_added": "13229941169932880",
+               "id": "141",
+               "name": "代码真香 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCmlhPmTdqYhRWwWZWSIBwGw"
+            }, {
+               "date_added": "13229943140991348",
+               "id": "142",
+               "name": "video intro templates sony vegas - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=video+intro+templates+sony+vegas"
+            }, {
+               "date_added": "13230808430210884",
+               "id": "172",
+               "name": "摩声 - 听见更多声音",
+               "type": "url",
+               "url": "https://moresound.tk/music/"
+            }, {
+               "date_added": "13230811806639935",
+               "id": "173",
+               "name": "Electron开发本地音乐播放器-慕课网",
+               "type": "url",
+               "url": "https://www.imooc.com/learn/1198"
+            } ],
+            "date_added": "13229924848345823",
+            "date_modified": "13230812802176216",
+            "id": "137",
+            "name": "剪辑等等",
+            "type": "folder"
+         }, {
+            "date_added": "13215590762881995",
+            "id": "19",
+            "name": "使用kafka connect 实现从oracle到kafka的数据同步 - QYHuiiQ - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/qyhuiiq/article/details/89002795"
+         }, {
+            "date_added": "13215592924523444",
+            "id": "20",
+            "name": "JDBC source connector is not working with timestamp+incrementing mode · Issue #242 · confluentinc/kafka-connect-jdbc",
+            "type": "url",
+            "url": "https://github.com/confluentinc/kafka-connect-jdbc/issues/242"
+         }, {
+            "date_added": "13215614022984608",
+            "id": "22",
+            "name": "更精准的全球IP地址定位平台_IP问问 -埃文科技(ipplus360.com)",
+            "type": "url",
+            "url": "https://www.ipplus360.com/"
+         }, {
+            "date_added": "13215616251271135",
+            "id": "23",
+            "name": "高精度IP地址查询|埃文科技-IP问问|IP地址查询|IP定位|精确地址|-chaipip.com",
+            "type": "url",
+            "url": "http://chaipip.com/ip.php"
+         }, {
+            "date_added": "13215760731215412",
+            "id": "25",
+            "name": "大数据常用组件默认端口号 - 技术 - 张子阳的博客",
+            "type": "url",
+            "url": "http://www.tracefact.net/tech/076.html"
+         }, {
+            "date_added": "13215966661657591",
+            "id": "27",
+            "name": "Performance Tuning - Spark 2.4.4 Documentation",
+            "type": "url",
+            "url": "https://spark.apache.org/docs/latest/sql-performance-tuning.html"
+         } ],
+         "date_added": "13215445758594658",
+         "date_modified": "13235183527162084",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13215445758594677",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13215445758594679",
+         "date_modified": "0",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
